@@ -1,0 +1,18 @@
+HASIL OCR
+==================================================
+
+ORIGINAL:
+Nomor ijazah: 571012022000056
+
+MEAN FILTER:
+Nomor ijazah: 571012022000056
+
+MEDIAN FILTER:
+Nomor ijazah: 571012022000056
+
+GAUSSIAN FILTER:
+Nomor ijazah: 571012022000056
+
+SHARPENING:
+Nomor ijazah: 571012022000056
+

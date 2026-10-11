@@ -1,0 +1,7 @@
+HASIL OCR NOMOR IJAZAH 5
+============================
+
+Sebelum Enhancement : Nomor ijazah: 571012022000056
+Brightness          : Nomor ijazah: 571012022000056
+Contrast Stretching : Nomor ijazah: 571012022000056
+Histogram Equalization : 
